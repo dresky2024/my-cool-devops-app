@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: dresky2024/my-cool-app:latest
+          tags: xxnb22/my-cool-app:latest
